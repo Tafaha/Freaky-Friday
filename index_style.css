@@ -1,0 +1,52 @@
+body{
+    background-color: #F5F5F5;
+}
+.navbar{
+  overflow: hidden;
+    box-shadow: 0 3px 2px -2px #8B4513;
+    
+}
+
+#barber_logo{
+  padding-top: 10px;
+  padding-left: 40px;
+  padding-bottom: 10px;
+  float: left;
+}
+
+.navbar a{
+  text-align: center;
+  padding: 52px 30px;
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+  float: right;
+  font-family: garamond;
+}
+
+.navbar a:hover{
+    background-color:#E8E8E8;
+    color: #8B4513
+}
+#tagline{
+    font-size: 45px;
+    position: absolute;
+    bottom: 34%;
+    left: 35%;
+    color: #F5F5F5;
+    font-family: 
+    letter-spacing: 1px;
+}
+#name{
+    font-size: 60px;
+    position: absolute;
+    bottom: 38%;
+    right: 30%;
+    color: black;
+    font-family: algerian;
+    letter-spacing: 1px;
+}
+#footer{
+    text-align: center;
+    font-size: 17px;
+}
